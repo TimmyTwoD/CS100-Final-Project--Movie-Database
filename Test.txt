@@ -1,0 +1,14 @@
+TEST CASES
+
+1. Random input for menu 
+2. Accidentally typing movie tag instead of how many movies 
+3. Should we make the time & score a range when giving recommendations?
+4. In GetRecommendation, fix so that users can only input whole number scores
+5. What would happen if we tried deleting on an an empty list?
+6. Force them to choose a tag 
+7. select == nullptr for output.txt // done
+
+8. Case sensitive: // i think i got most of them done 
+    1. edit Case
+    2. Tags edge CASES
+9. When editing movie, if user types in movie that is not in database/misspells 

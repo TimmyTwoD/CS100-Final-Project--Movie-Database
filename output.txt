@@ -1,0 +1,10 @@
+{"Star Trek", "128", "8", "Sci-fi"}
+{"White Chicks", "115", "6", "Comedy"}
+{"Inception", "162", "9", "Action"}
+{"The White Lotus", "353", "8", "Comedy"}
+{"Ted Lasso", "30", "9", "Sport"}
+{"Rick and Morty", "23", "9", "Animation"}
+{"Jungle Cruise", "127", "8", "Adventure"}
+{"Vivo", "95", "6", "Animation"}
+{"Cruela", "134", "7", "Comedy"}
+{"The Chair", "30", "7", "Drama"}
